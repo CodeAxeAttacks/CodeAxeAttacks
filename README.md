@@ -10,9 +10,6 @@ To contact me just send a message in Telegram: @bde20
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/badge/-Java-critical?style=for-the-badge&logo=Java)
 
-### GitHub stats
+### Top Langs
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeAxeAttacks)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAxeAttacks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
