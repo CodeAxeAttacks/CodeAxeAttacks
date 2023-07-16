@@ -14,4 +14,4 @@ To contact me just send a message in Telegram: @bde20
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAxeAttacks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
