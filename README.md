@@ -24,6 +24,7 @@ To contact me just send a message in Telegram: @bde20
 ![TeX](https://img.shields.io/badge/-TeX-blue?style=for-the-badge&logo=LaTeX)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker)
 ![Keycloak](https://img.shields.io/badge/-Keycloak-red?style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular)
 
 ### Top Langs
 
