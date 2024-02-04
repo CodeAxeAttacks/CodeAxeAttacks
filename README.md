@@ -28,4 +28,4 @@ To contact me just send a message in Telegram: @bde20
 
 ### Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAxeAttacks&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAxeAttacks&layout=compact&langs_count=10)
