@@ -33,12 +33,13 @@ I'm a Software Engineer studying at ITMO University under the System Application
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### Testing
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/-Mockito-78CFF5?style=flat-square)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 #### Other
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -46,7 +47,6 @@ I'm a Software Engineer studying at ITMO University under the System Application
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square)
 ![UML](https://img.shields.io/badge/-UML-FF6600?style=flat-square)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
 
 ---
 
